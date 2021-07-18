@@ -1,5 +1,4 @@
-﻿using MiHR;
-using System;
+﻿using System;
 
 namespace Metigator
 {
@@ -9,14 +8,7 @@ namespace Metigator
         {
             Console.WriteLine("Hello World!");
 
-            string s1 = "dfsfds";
-            string s2 = s1 + "" + "ddsf";
-
-            string s3 = $"{s1} {s2}";
-
-            Console.WriteLine(s2);
-            Console.WriteLine(s3);
-
+           
         }
     }
 }
